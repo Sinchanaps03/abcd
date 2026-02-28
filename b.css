@@ -1,9 +1,21 @@
 body {
+<<<<<<< HEAD
     background-color: #f0f0f0;
+=======
+    background-color: #740e0e;
+>>>>>>> auto
     text-align: center;
     font-family: Arial;
 }
 
 h1 {
+<<<<<<< HEAD
     color: blue;
+=======
+<<<<<<< HEAD
+    color: blue;
+=======
+    color: rgb(156, 156, 194);
+>>>>>>> car
+>>>>>>> auto
 }
